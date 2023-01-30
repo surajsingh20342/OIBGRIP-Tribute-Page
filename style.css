@@ -1,0 +1,83 @@
+.tribute{
+    background-color: black;
+}
+.image img{
+    height: 100vh;
+    width: 80vw;
+    margin-left: 120px;
+    /* margin-left: 350px; */
+}
+.information{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px; 
+}
+.information h2{
+    padding-top: 50px;
+    margin-left: 30vh;
+    color: rgb(112, 157, 197);
+    font-family: 'Taviraj';
+    font-size: 30px;
+    
+}
+.information .about p{
+    color: rgb(43, 97, 144);
+    padding-left: 170px;
+    padding-right: 150px;
+    font-family: 'serif';
+    font-size: large;
+}
+.information .about p strong{
+    color: rgb(114, 143, 171);
+    font-family: 'serif';
+
+}
+.information img{
+    padding-right: 200px;
+    width: auto;
+}
+.time-line{
+    background-color: black;
+}
+.time-line h2{
+    padding-top: 50px;
+    margin-left: 30vh;
+    color: rgb(112, 157, 197);
+    font-family: 'Taviraj';
+    font-size: 30px;
+}
+.time-line ul{
+    color: rgb(128, 162, 192);
+    padding-left: 170px;
+    padding-right: 170px;
+    font-family: 'serif';
+    font-size: large;
+}
+.col-md-16{
+    display: flex;
+    justify-content: space-between;
+    font-size: medium;
+}
+.personal-info{
+    padding-top: 70px;
+    color: rgb(128, 162, 192);
+    padding-left: 20px;
+}
+.domestic-team-info{
+    padding-top: 67px;
+    /* padding-left: 100px; */
+    color: rgb(128, 162, 192);
+}
+.international-information{
+    padding-top: 62px;
+    padding-right: 20px;
+    color: rgb(128, 162, 192);
+
+}
+.more-information{
+    color: rgb(128, 162, 192);
+}
+.About-Developer{
+    color: rgb(173, 191, 206);
+    font-size: 20px;
+}
